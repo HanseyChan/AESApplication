@@ -9,4 +9,8 @@ public class Test {
         System.out.println("fuck");
     }
 
+    private void sayThankYou(){
+        System.out.println("Thank you");
+    }
+
 }
