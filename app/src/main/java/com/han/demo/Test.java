@@ -6,7 +6,11 @@ public class Test {
     }
 
     private void sayFuck(){
-        System.out.println("fuck");
+        System.out.println("no fuck");
+    }
+
+    private void sayThankYou(){
+        System.out.println("Thank you");
     }
 
 }
