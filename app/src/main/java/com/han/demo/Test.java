@@ -13,4 +13,8 @@ public class Test {
         System.out.println("Thank you");
     }
 
+    private void sayThankYou(){
+        System.out.println("Thank you");
+    }
+
 }
